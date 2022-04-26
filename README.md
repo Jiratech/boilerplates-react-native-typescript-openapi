@@ -1,0 +1,1 @@
+# boilerplates-react-native-typescript-openapi
